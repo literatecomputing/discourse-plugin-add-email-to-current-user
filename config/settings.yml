@@ -1,0 +1,4 @@
+plugins:
+  add_email_to_serializer_enabled:
+    default: true
+    client: true
